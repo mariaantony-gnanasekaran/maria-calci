@@ -1,8 +1,11 @@
 {
   "name": "maria-calci",
-  "version": "1.0.1",
-  "description": "package testing",
-  "main": "dist/index.js",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "maria-calci": "bin/maria.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,13 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/mariaantony-gnanasekaran/maria-calci.git"
   },
-  "author": "maria",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mariaantony-gnanasekaran/maria-calci/issues"
-  },
-  "bin": {
-    "maria": "./bin/maria"
   },
   "homepage": "https://github.com/mariaantony-gnanasekaran/maria-calci#readme",
   "dependencies": {

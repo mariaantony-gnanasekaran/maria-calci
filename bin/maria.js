@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 var figlet = require('figlet');
 var chalk = require('chalk');
 var text ="";
