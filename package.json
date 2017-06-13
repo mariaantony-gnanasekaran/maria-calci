@@ -1,0 +1,26 @@
+{
+  "name": "maria-calci",
+  "version": "1.0.0",
+  "description": "package testing",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaantony-gnanasekaran/Testing.git"
+  },
+  "author": "maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaantony-gnanasekaran/Testing/issues"
+  },
+  "bin": {
+    "maria": "./bin/maria"
+  },
+  "homepage": "https://github.com/mariaantony-gnanasekaran/Testing#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "figlet": "^1.2.0"
+  }
+}
