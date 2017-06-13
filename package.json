@@ -1,6 +1,6 @@
 {
   "name": "maria-calci",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package testing",
   "main": "dist/index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mariaantony-gnanasekaran/Testing.git"
+    "url": "git+https://github.com/mariaantony-gnanasekaran/maria-calci.git"
   },
   "author": "maria",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mariaantony-gnanasekaran/Testing/issues"
+    "url": "https://github.com/mariaantony-gnanasekaran/maria-calci/issues"
   },
   "bin": {
     "maria": "./bin/maria"
   },
-  "homepage": "https://github.com/mariaantony-gnanasekaran/Testing#readme",
+  "homepage": "https://github.com/mariaantony-gnanasekaran/maria-calci#readme",
   "dependencies": {
     "chalk": "^1.1.3",
     "figlet": "^1.2.0"
